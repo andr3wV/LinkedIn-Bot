@@ -13,7 +13,7 @@
 		"type": "git",
 		"url": "git+https://github.com/andr3wV/LinkedIn-Bot.git"
 	},
-	"author": "andr3wV <andrewv433@gmail.com>",
+	"author": "andrewv433 <andrewv433@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
 		"axios": "^0.21.1",
